@@ -133,9 +133,9 @@ const pageFields = {
             label: "Gender",
             field: "gender",
             data: [
-              { label: "Male", value: "M" },
-              { label: "Female", value: "F" },
-              { label: "Other", value: "O" },
+              { label: "Male", value: "Male" },
+              { label: "Female", value: "Female" },
+              { label: "Other", value: "Other" },
             ],
             placeholder: "Select Gender",
           },
